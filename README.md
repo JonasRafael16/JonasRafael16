@@ -7,9 +7,9 @@
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:tassiofernandescosta@gmail.com" alt="gmail" target="_blank">
+<a href="mailto:jonasrafael16@gmail.com" alt="gmail" target="_blank">
 
-<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:tassiofernandescosta@gmail.com" />
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:jonasrafael16@gmail.com" />
 
 </a>
 
