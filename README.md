@@ -2,17 +2,15 @@
 
 ## ⬇️ Meus Contatos 
 <a href="https://github.com/JonasRafael16" alt="github" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-000000?&style=flat-circle&logo=GitHub&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/jonasrdelima" alt="linkedin" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-circle&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:jonasrafael16@gmail.com" alt="gmail" target="_blank">
-
-<!--   https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white -->
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jonasrafael16@gmail.com" />
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-circle&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:jonasrafael16@gmail.com" />
 
 </a>
 
