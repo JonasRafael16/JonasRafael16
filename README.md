@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## ⬇️ Meus Contatos 
+## ⬇️ My Contacts
 <a href="https://github.com/JonasRafael16" alt="github" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-000000?&style=flat-circle&logo=GitHub&logoColor=white">
 </a>
@@ -15,7 +15,7 @@
 </a>
 
 
-## 🛠 Tecnologias e Ferramentas
+## 🛠 Technologies and Tools
 <a href="https://www.php.net/"><img src="https://user-images.githubusercontent.com/61664693/116169129-b3a03800-a70c-11eb-82ec-4586e8f751e9.png" width="45px"></img></a>
 <a href="https://www.javascript.com/"><img src="https://user-images.githubusercontent.com/61664693/116169142-b569fb80-a70c-11eb-8de0-029cbc2b2aef.png" width="45px"></img></a>
 <a href="https://nodejs.org/en/" ><img src="https://user-images.githubusercontent.com/61664693/116169136-b4d16500-a70c-11eb-8418-48daba4e08ef.png" width="45px"></img></a>
