@@ -25,9 +25,9 @@
 <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://user-images.githubusercontent.com/61664693/116169139-b569fb80-a70c-11eb-8df4-4fa9be0bebe3.png" width="45px"></img></a>
 <a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://user-images.githubusercontent.com/61664693/116169137-b4d16500-a70c-11eb-86b9-304ea63ba9d1.png" width="45px"></img></a>
 
-<!-- 
+
 ## ⚡Badge Board
-[![@jonasrafael's Holopin board](https://holopin.me/jonasrafael)](https://holopin.io/@jonasrafael) -->
+[![@jonasrafael's Holopin board](https://holopin.me/jonasrafael)](https://holopin.io/@jonasrafael)
 
 <!--
 **JonasRafael16/JonasRafael16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
