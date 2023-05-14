@@ -4,9 +4,9 @@
 
 </br>
 
-<!-- - 🔭 I'm currently working on VG Consulting as a fullstack developer
-- 🌱 I’m currently learning C# and .Net
-- 👯 I'm looking to collaborate on open source project -->
+- 🔭 I've been working as a fullstack developer for 4 years
+- 🌱 I currently work mainly with php and typescript
+- 👯 I'm looking to collaborate on open source project 
 
 </br>
 
