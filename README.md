@@ -12,13 +12,13 @@
 
 <h3 align="left">⬇️ Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/JonasRafael16" alt="github" target="_blank">
+<!--   <a href="https://github.com/JonasRafael16" alt="github" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?&style=flat-circle&logo=GitHub&logoColor=white">
-  </a>
+  </a> -->
 
-  <a href="https://www.linkedin.com/in/jonasrdelima" alt="linkedin" target="_blank">
+<!--   <a href="https://www.linkedin.com/in/jonasrdelima" alt="linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-circle&logo=linkedin&logoColor=white">
-  </a>
+  </a> -->
 
   <a href="mailto:jonasrafael16@gmail.com" alt="gmail" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-circle&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:jonasrafael16@gmail.com" />
