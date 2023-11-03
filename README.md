@@ -16,14 +16,12 @@
     <img src="https://img.shields.io/badge/GitHub-000000?&style=flat-circle&logo=GitHub&logoColor=white">
   </a> -->
 
-<!--   <a href="https://www.linkedin.com/in/jonasrdelima" alt="linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/jonasrdelima" alt="linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-circle&logo=linkedin&logoColor=white">
-  </a> -->
+  </a>
 
   <a href="mailto:jonasrafael16@gmail.com" alt="gmail" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-circle&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:jonasrafael16@gmail.com" />
-  </a><a href="https://linkedin.com/in/jonasrdelima" alt="linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-circle&labelColor=0077B5&logo=linkedin&logoColor=white&link=https://linkedin.com/in/jonasrdelima" />
   </a>
 </p>
 
